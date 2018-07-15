@@ -1,11 +1,20 @@
 h1 {
-    color: purple;
+    color: #FF2455;
+    border: 3px solid rgb(000,000,000);
 }
 
 li {
-    color: blue;
+    color: #AB0000;
 }
 
 h4 {
-    color: green;
+    background: rgb(255,100,80);
+}
+
+body {
+    /* background: url(http://gwlinux.com:444/oliver.jpg);
+    background-repeat: no-repeat;
+    background-size: cover; */
+
+    background: rgb(255,150,160)
 }
